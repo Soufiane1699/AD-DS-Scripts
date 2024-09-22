@@ -7,3 +7,7 @@ Get-SMBConnection | Select-Object Dialect
 ### Domäneninformationen herausfinden
 Get-ADDomain
 
+### Anzeigen der SMB Shares am Domain Controller
+run -> compmgmt.msc -> System Tools -> Shared Folders -> Shares
+
+
